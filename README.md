@@ -60,9 +60,11 @@ The architecture includes:
 
 # Processor Schematic
 
-![Processor Schematic](images/pipeline_processor.png)
+<p align="center">
+  <img src="images/pipeline_processor.png" width="900" alt="Processor Schematic">
+</p>
 
----
+*Figure 1: Complete processor datapath and control schematic implemented in Logisim.*
 
 # Instruction Set Architecture (ISA)
 
