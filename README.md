@@ -61,7 +61,7 @@ The architecture includes:
 # Processor Schematic
 
 <p align="center">
-  <img src="images/pipeline_processor.png" width="900" alt="Processor Schematic">
+  <img src=""C:\Users\Saharsh\OneDrive\Pictures\Untitled.png"" width="900" alt="Processor Schematic">
 </p>
 
 *Figure 1: Complete processor datapath and control schematic implemented in Logisim.*
