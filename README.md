@@ -245,19 +245,6 @@ Waveforms were analyzed to verify:
 
 ---
 
-# Repository Structure
-
-```text
-├── src/                  # Verilog source files
-├── testbench/            # Testbench modules
-├── waveforms/            # Simulation waveform files
-├── images/               # Processor schematic and diagrams
-├── docs/                 # Reports and documentation
-└── README.md
-```
-
----
-
 # Future Improvements
 
 - Data forwarding unit implementation
